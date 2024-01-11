@@ -1,0 +1,2188 @@
+{
+    "ErrorCode": null,
+    "ErrorMsg": null,
+    "Response": {
+        "PageInfo": [
+            {
+                "image_data": "",
+                "PageIndex": 1,
+                "ErrorCode": 0,
+                "Result": [
+                    {
+                        "ResultList": [
+                            {
+                                "cls_chn_result": "商业保险单",
+                                "DetailList": [
+                                    {
+                                        "col": 11,
+                                        "chn_key": "险种类型",
+                                        "row": 6,
+                                        "key": "XZLX",
+                                        "DetailData": [
+                                            {
+                                                "FieldList": [
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "承保险种",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1355,
+                                                            "left": 312,
+                                                            "width": 361,
+                                                            "height": 40
+                                                        },
+                                                        "value": "新能源汽车损失保险",
+                                                        "key": "CBXZ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "责任限额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1355,
+                                                            "left": 1045,
+                                                            "width": 221,
+                                                            "height": 40
+                                                        },
+                                                        "value": "159000.00",
+                                                        "key": "ZRXE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保险费小计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1355,
+                                                            "left": 1570,
+                                                            "width": 121,
+                                                            "height": 40
+                                                        },
+                                                        "value": "3395.4",
+                                                        "key": "BFXJ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔率",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1355,
+                                                            "left": 1934,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "JDMPL"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保费合计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1355,
+                                                            "left": 2187,
+                                                            "width": 141,
+                                                            "height": 40
+                                                        },
+                                                        "value": "3395.40",
+                                                        "key": "BXF"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "JDMPE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "不计免赔",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BJMP"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险投保份数",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXTBFS"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险单位保额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXDWBE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "玻璃类型",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BLLX"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "费率浮动",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "FLFD"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "FieldList": [
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "承保险种",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1418,
+                                                            "left": 252,
+                                                            "width": 482,
+                                                            "height": 40
+                                                        },
+                                                        "value": "新能源汽车第三者责任保险",
+                                                        "key": "CBXZ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "责任限额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1418,
+                                                            "left": 1035,
+                                                            "width": 241,
+                                                            "height": 40
+                                                        },
+                                                        "value": "3000000.00",
+                                                        "key": "ZRXE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保险费小计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1418,
+                                                            "left": 1560,
+                                                            "width": 141,
+                                                            "height": 40
+                                                        },
+                                                        "value": "1733.59",
+                                                        "key": "BFXJ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔率",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1418,
+                                                            "left": 1934,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "JDMPL"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保费合计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1418,
+                                                            "left": 2187,
+                                                            "width": 141,
+                                                            "height": 40
+                                                        },
+                                                        "value": "1733.59",
+                                                        "key": "BXF"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "JDMPE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "不计免赔",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BJMP"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险投保份数",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXTBFS"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险单位保额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXDWBE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "玻璃类型",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BLLX"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "费率浮动",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "FLFD"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "FieldList": [
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "承保险种",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1480,
+                                                            "left": 292,
+                                                            "width": 401,
+                                                            "height": 40
+                                                        },
+                                                        "value": "车上人员责任险(司机)",
+                                                        "key": "CBXZ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "责任限额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1480,
+                                                            "left": 1055,
+                                                            "width": 201,
+                                                            "height": 40
+                                                        },
+                                                        "value": "10000.00",
+                                                        "key": "ZRXE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保险费小计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1480,
+                                                            "left": 1580,
+                                                            "width": 101,
+                                                            "height": 40
+                                                        },
+                                                        "value": "17.27",
+                                                        "key": "BFXJ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔率",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1480,
+                                                            "left": 1934,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "JDMPL"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保费合计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1480,
+                                                            "left": 2207,
+                                                            "width": 101,
+                                                            "height": 40
+                                                        },
+                                                        "value": "17.27",
+                                                        "key": "BXF"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "JDMPE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "不计免赔",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BJMP"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险投保份数",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXTBFS"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险单位保额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXDWBE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "玻璃类型",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BLLX"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "费率浮动",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "FLFD"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "FieldList": [
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "承保险种",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1543,
+                                                            "left": 292,
+                                                            "width": 401,
+                                                            "height": 40
+                                                        },
+                                                        "value": "车上人员责任险(乘客)",
+                                                        "key": "CBXZ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "责任限额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1543,
+                                                            "left": 1025,
+                                                            "width": 261,
+                                                            "height": 40
+                                                        },
+                                                        "value": "4x10000.00",
+                                                        "key": "ZRXE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保险费小计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1543,
+                                                            "left": 1580,
+                                                            "width": 101,
+                                                            "height": 40
+                                                        },
+                                                        "value": "32.91",
+                                                        "key": "BFXJ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔率",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1543,
+                                                            "left": 1934,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "JDMPL"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保费合计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1543,
+                                                            "left": 2207,
+                                                            "width": 101,
+                                                            "height": 40
+                                                        },
+                                                        "value": "32.91",
+                                                        "key": "BXF"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "JDMPE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "不计免赔",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BJMP"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险投保份数",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXTBFS"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险单位保额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXDWBE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "玻璃类型",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BLLX"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "费率浮动",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "FLFD"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "FieldList": [
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "承保险种",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1605,
+                                                            "left": 118,
+                                                            "width": 743,
+                                                            "height": 49
+                                                        },
+                                                        "value": "附加新能源汽车增值服务特约条款代为送检服务特约条款",
+                                                        "key": "CBXZ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "责任限额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1605,
+                                                            "left": 1115,
+                                                            "width": 81,
+                                                            "height": 40
+                                                        },
+                                                        "value": "1",
+                                                        "key": "ZRXE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保险费小计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1605,
+                                                            "left": 1611,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "BFXJ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔率",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1605,
+                                                            "left": 1934,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "JDMPL"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保费合计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1605,
+                                                            "left": 2238,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "BXF"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "JDMPE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "不计免赔",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BJMP"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险投保份数",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXTBFS"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险单位保额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXDWBE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "玻璃类型",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BLLX"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "费率浮动",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "FLFD"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "FieldList": [
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "承保险种",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1659,
+                                                            "left": 138,
+                                                            "width": 723,
+                                                            "height": 49
+                                                        },
+                                                        "value": "附加新能源汽车增值服务特约条款道路救援服务特约条款",
+                                                        "key": "CBXZ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "责任限额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1668,
+                                                            "left": 1115,
+                                                            "width": 81,
+                                                            "height": 40
+                                                        },
+                                                        "value": "2",
+                                                        "key": "ZRXE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保险费小计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1668,
+                                                            "left": 1611,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "BFXJ"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔率",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1668,
+                                                            "left": 1934,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "JDMPL"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "保费合计",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 1668,
+                                                            "left": 2238,
+                                                            "width": 40,
+                                                            "height": 40
+                                                        },
+                                                        "value": "—",
+                                                        "key": "BXF"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "每次事故绝对免赔额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "JDMPE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "不计免赔",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BJMP"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险投保份数",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXTBFS"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "乘客险单位保额",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "CKXDWBE"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "玻璃类型",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "BLLX"
+                                                    },
+                                                    {
+                                                        "score": 0,
+                                                        "chn_key": "费率浮动",
+                                                        "color": 0,
+                                                        "shape": 0,
+                                                        "image_data": "",
+                                                        "is_image": 0,
+                                                        "page_num": 1,
+                                                        "position": {
+                                                            "top": 0,
+                                                            "left": 0,
+                                                            "width": 0,
+                                                            "height": 0
+                                                        },
+                                                        "value": "",
+                                                        "key": "FLFD"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "direct": 0,
+                                "is_recog": 1,
+                                "pid": 1038,
+                                "type": "电子保单商业险",
+                                "is_second_recog": 0,
+                                "FieldList": [
+                                    {
+                                        "score": 0,
+                                        "chn_key": "保单名称",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "机动车商业保险单",
+                                        "key": "BDMC"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "流水号",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 2339,
+                                            "left": 1151,
+                                            "width": 482,
+                                            "height": 40
+                                        },
+                                        "value": "CPC170230516000124213781",
+                                        "key": "LSH"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "缴费确认时间",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 2390,
+                                            "left": 401,
+                                            "width": 402,
+                                            "height": 40
+                                        },
+                                        "value": "20230516111000",
+                                        "key": "JFQRSJ"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "保单生成时间",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "BDSCSJ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "投保确认时间",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 2394,
+                                            "left": 1155,
+                                            "width": 402,
+                                            "height": 41
+                                        },
+                                        "value": "20230516111000",
+                                        "key": "TBQRSJ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保单打印时间",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 2394,
+                                            "left": 1847,
+                                            "width": 402,
+                                            "height": 41
+                                        },
+                                        "value": "20230516111000",
+                                        "key": "BDDYSJ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "投保确认码",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 472,
+                                            "left": 1829,
+                                            "width": 603,
+                                            "height": 40
+                                        },
+                                        "value": "V0201PAIC440323050234206632013",
+                                        "key": "TBQRM"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保单验真码",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 534,
+                                            "left": 2070,
+                                            "width": 362,
+                                            "height": 40
+                                        },
+                                        "value": "dmoPwuPGRiiRrQvRuB",
+                                        "key": "BDYZM"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险单号",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 659,
+                                            "left": 2030,
+                                            "width": 402,
+                                            "height": 40
+                                        },
+                                        "value": "10590003902034205692",
+                                        "key": "BXDH"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险人名称",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 824,
+                                            "left": 441,
+                                            "width": 121,
+                                            "height": 40
+                                        },
+                                        "value": "温倩怡",
+                                        "key": "BBXR_MC"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "被保险人证件类型",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "BBXR_ZJLX"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "被保险人身份证号码",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "BBXR_SFZHM"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险人日期",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 878,
+                                            "left": 441,
+                                            "width": 201,
+                                            "height": 40
+                                        },
+                                        "value": "19971117",
+                                        "key": "BBXR_CSRQ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险人性别",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 878,
+                                            "left": 1187,
+                                            "width": 40,
+                                            "height": 40
+                                        },
+                                        "value": "女",
+                                        "key": "BBXR_XB"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险人地址",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 931,
+                                            "left": 441,
+                                            "width": 804,
+                                            "height": 40
+                                        },
+                                        "value": "广东省东莞市清溪镇厦坭旗岭吓村民小组38号",
+                                        "key": "BBXR_DZ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险人联系电话",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 878,
+                                            "left": 1887,
+                                            "width": 221,
+                                            "height": 40
+                                        },
+                                        "value": "18802******",
+                                        "key": "BBXR_LXDH"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "被保险人邮箱",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "BBXR_YX"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险机动车车主",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 646,
+                                            "left": 339,
+                                            "width": 120,
+                                            "height": 40
+                                        },
+                                        "value": "温倩怡",
+                                        "key": "BBXJDC_CZ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险机动车号牌号码",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 986,
+                                            "left": 459,
+                                            "width": 125,
+                                            "height": 36
+                                        },
+                                        "value": "粤B-*新",
+                                        "key": "BBXJDC_HPHM"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险机动车机动车种类",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1093,
+                                            "left": 1633,
+                                            "width": 214,
+                                            "height": 36
+                                        },
+                                        "value": "六座以下客车",
+                                        "key": "BBXJDC_JDCZL"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "被保险机动车能源种类",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "BBXJDC_NYZL"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险机动车使用性质",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1093,
+                                            "left": 1066,
+                                            "width": 107,
+                                            "height": 36
+                                        },
+                                        "value": "非营业",
+                                        "key": "BBXJDC_SYXZ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险机动车发动机号码",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 986,
+                                            "left": 1066,
+                                            "width": 161,
+                                            "height": 36
+                                        },
+                                        "value": "2F3138280",
+                                        "key": "BBXJDC_FDJHM"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "被保险机动车车架号",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 986,
+                                            "left": 1633,
+                                            "width": 303,
+                                            "height": 36
+                                        },
+                                        "value": "LC0CE4CB3P1150150",
+                                        "key": "BBXJDC_CJH"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险机动车厂牌型号",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1040,
+                                            "left": 1633,
+                                            "width": 500,
+                                            "height": 36
+                                        },
+                                        "value": "比亚迪BYD7003BEVA1纯电动轿车",
+                                        "key": "BBXJDC_CPXH"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险机动车核定载客",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1040,
+                                            "left": 459,
+                                            "width": 72,
+                                            "height": 36
+                                        },
+                                        "value": "5",
+                                        "key": "BBXJDC_HDZK"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险机动车核定载质量",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1093,
+                                            "left": 477,
+                                            "width": 18,
+                                            "height": 36
+                                        },
+                                        "value": "-",
+                                        "key": "BBXJDC_HDZZL"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "被保险机动车排量",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "BBXJDC_PL"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "被保险机动车功率",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "BBXJDC_GL"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "被保险机动车登记日期",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1040,
+                                            "left": 1066,
+                                            "width": 179,
+                                            "height": 36
+                                        },
+                                        "value": "20230516",
+                                        "key": "BBXJDC_DJRQ"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "与事故联系比率",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "YSGLXBL"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险费合计大写",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1785,
+                                            "left": 825,
+                                            "width": 1593,
+                                            "height": 96
+                                        },
+                                        "value": "伍仟壹佰柒拾玖元壹角柒分",
+                                        "key": "BXFHJDX"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险费合计小写",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1355,
+                                            "left": 1045,
+                                            "width": 221,
+                                            "height": 40
+                                        },
+                                        "value": "5179.17",
+                                        "key": "BXFHJXX"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "救助基金比率",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "JZJJBL"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "救助基金",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "JZJJ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险期间起",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1194,
+                                            "left": 522,
+                                            "width": 357,
+                                            "height": 36
+                                        },
+                                        "value": "20230517000000",
+                                        "key": "BXQJQ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险期间止",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1194,
+                                            "left": 950,
+                                            "width": 375,
+                                            "height": 36
+                                        },
+                                        "value": "20240516240000",
+                                        "key": "BXQJZ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险合同争议解决方式",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1147,
+                                            "left": 450,
+                                            "width": 72,
+                                            "height": 36
+                                        },
+                                        "value": "诉讼",
+                                        "key": "BXHTZYJJFS"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "代收车整备质量",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DSCCS_ZBZL"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "代收车纳税人识别号",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DSCCS_NSRSBH"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "代收车当年应缴",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DSCCS_DNYJ"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "代收车往年补缴",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DSCCS_WNBJ"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "代收车滞纳金",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DSCCS_ZLJ"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "代收车合计大写",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DSCCS_HJDX"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "代收车合计小写",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DSCCS_HJXX"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "代收车完税凭证号",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DSCCS_WSPZH"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "代收车开具税务机关",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DSCCS_KJSWJG"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "投保人",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 534,
+                                            "left": 339,
+                                            "width": 1671,
+                                            "height": 41
+                                        },
+                                        "value": "温倩怡保单验真码",
+                                        "key": "TBR"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险公司名称",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 2896,
+                                            "left": 343,
+                                            "width": 786,
+                                            "height": 36
+                                        },
+                                        "value": "中国平安财产保险股份有限公司",
+                                        "key": "BXGSMC"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险人公司名称",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 2896,
+                                            "left": 343,
+                                            "width": 786,
+                                            "height": 36
+                                        },
+                                        "value": "中国平安财产保险股份有限公司深圳市龙岗支公司",
+                                        "key": "BXR_GSMC"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险人公司地址",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 2959,
+                                            "left": 343,
+                                            "width": 1232,
+                                            "height": 36
+                                        },
+                                        "value": "深圳市龙岗区龙城街道黄阁坑社区腾飞路9号创投大厦3201-3202、3208-3210室",
+                                        "key": "BXR_GSDZ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险人邮政编码",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 2959,
+                                            "left": 2106,
+                                            "width": 107,
+                                            "height": 36
+                                        },
+                                        "value": "518172",
+                                        "key": "BXR_YZBM"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险人服务电话",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1881,
+                                            "left": 1771,
+                                            "width": 89,
+                                            "height": 36
+                                        },
+                                        "value": "95511",
+                                        "key": "BXR_FWDH"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险人网址",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 3017,
+                                            "left": 785,
+                                            "width": 303,
+                                            "height": 36
+                                        },
+                                        "value": "www.pingan.com.cn",
+                                        "key": "BXR_WZ"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "保险人签单日期",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 3017,
+                                            "left": 1691,
+                                            "width": 232,
+                                            "height": 36
+                                        },
+                                        "value": "20230516",
+                                        "key": "BXR_QDRQ"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "保险人公司盖章",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "0",
+                                        "key": "BXR_GSGZ"
+                                    },
+                                    {
+                                        "score": 0,
+                                        "chn_key": "第一受益人",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 0,
+                                            "left": 0,
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "value": "",
+                                        "key": "DYSYR"
+                                    },
+                                    {
+                                        "score": 100,
+                                        "chn_key": "特别约定",
+                                        "color": 0,
+                                        "shape": 0,
+                                        "image_data": "",
+                                        "is_image": 0,
+                                        "page_num": 1,
+                                        "position": {
+                                            "top": 1881,
+                                            "left": 254,
+                                            "width": 2178,
+                                            "height": 402
+                                        },
+                                        "value": "1)尊敬的客户:投保次日起，承保及理赔等信息您可通过本公司网页www.pingan.com、客服热线95511、门店、平安好车主APP核实信息。若对查询结果有异议，请登陆网站留言或拨打服务热线。2)保险期间内，如发生本保险合同约定的保险事故造成被保险车辆损失或第三者财产损失，保险人可采取实物或修复方式进行保险赔付。3)尊敬的客户，您在初始投保时未提供准确车牌信息，为便于向您提供后续服务，承保后我司如获取准确车牌信息，我司承保系统会自动完成保单新车补牌批改；您也可登录WWW.PINGAN.COM/PIGAI或通过平安好车主APP自行完成保单新车加牌批改。4)非营业车辆如从事网约车或营业性质活动，发生保险责任范围内的事故，本公司不负责赔偿。5)温馨提示:“发生道路交通事故损害赔偿纠纷时，当事人应积极协商解决，未能与保险公司协商一致的，可向第三方调解机构深圳市保险消费者权益服务中心申请免费调解，通过道交纠纷网上一体化处理机制解决纠纷。电子邮箱:1270716798@qq.com，联系电话:0755-83529699。6)本保单所承保的道路救援服务区域覆盖全国直辖市、省会城市、地级市中心区100公里以内以及县城或县级市中心区50公里以内救援车辆可通行的道路，高架、高速、隧道、政府管制区域、非车辆行驶道路不在服务范围内，服务项目包含搭电、换胎、故障拖车(限50公里)、紧急脱困等，详细服务介绍可查阅平安好车主APP道路救援专区《平安道路救援服务协议》。7)无其它特别约定。",
+                                        "key": "TBYD"
+                                    }
+                                ],
+                                "top": 0,
+                                "left": 0,
+                                "cls_result": "DZBD_SYBX",
+                                "width": 2632,
+                                "angle": 0,
+                                "position": {
+                                    "top": 0,
+                                    "left": 0,
+                                    "width": 2632,
+                                    "height": 3498
+                                },
+                                "height": 3498
+                            }
+                        ],
+                        "Time": "1714",
+                        "ErrorCode": 0
+                    }
+                ]
+            }
+        ],
+        "ErrorCode": 0,
+        "SerialId": 1745470763462365184
+    },
+    "Time": null
+}
